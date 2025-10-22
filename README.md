@@ -31,6 +31,7 @@ To help businesses **monitor, measure, and optimize** their sales performance us
 ### **Project Objectives**
 1. Create **Profit & Loss (P&L) Reports** by **Fiscal Year** and **Market** to understand profitability trends.  
 2. Analyze **Gross Margin % (GM%) by Quarter and Subzone** to track performance stability over time.  
+3.Create Profit & Loss (P&L) Reports by Month to analyze month-wise profitability trends across different markets and subzones.
 
 ### **Purpose of Finance Analytics**
 To evaluate overall **financial health**, improve **decision-making**, and support **strategic planning** based on key financial metrics.
@@ -70,7 +71,7 @@ To evaluate overall **financial health**, improve **decision-making**, and suppo
 - `Atishay_Jain_P&L_for_Markets_Report.pdf`  
 - `Atishay_Jain_P&L_By_Fiscal_Year_Report.pdf`  
 - `Atishay_Jain_GM%_By_Quarter_Subzone_Report.pdf`  
--`Atishay_Jain_P&L_By_Months_Report.pdf`
+- `Atishay_Jain_P&L_By_Months_Report.pdf`
 
 
 ---
