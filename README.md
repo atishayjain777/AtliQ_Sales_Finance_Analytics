@@ -32,6 +32,7 @@ To help businesses **monitor, measure, and optimize** their sales performance us
 1. Create **Profit & Loss (P&L) Reports** by **Fiscal Year** and **Market** to understand profitability trends.  
 2. Analyze **Gross Margin % (GM%) by Quarter and Subzone** to track performance stability over time.  
 3.Create Profit & Loss (P&L) Reports by Month to analyze month-wise profitability trends across different markets and subzones.
+4. P&L by Month → Analyze month-wise profitability trends for each fiscal year across different markets
 
 ### **Purpose of Finance Analytics**
 To evaluate overall **financial health**, improve **decision-making**, and support **strategic planning** based on key financial metrics.
